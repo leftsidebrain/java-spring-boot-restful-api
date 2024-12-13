@@ -1,0 +1,4 @@
+package JavaProgrammerZamanNow.Restfulapi.model;
+
+public class AddressResponse {
+}
